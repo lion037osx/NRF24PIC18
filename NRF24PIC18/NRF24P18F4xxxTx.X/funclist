@@ -1,0 +1,25 @@
+_NRF24L01_WriteRegister: CODE, 6092 0 24
+_SPI_Close: CODE, 6218 0 4
+__stringdata: SMALLCONST, 4106 0 60
+_NRF24L01_SetMode: CODE, 5432 0 90
+_NRF24L01_SetChannel: CODE, 6136 0 18
+_NRF24L01_Init: CODE, 5162 0 270
+_NRF24L01_SendData: CODE, 5824 0 58
+_dpowers: SMALLCONST, 4096 0 10
+_main: CODE, 4874 0 288
+_NRF24L01_Flush: CODE, 6058 0 34
+_SPI_Write: CODE, 6172 0 14
+_Delay_ms: CODE, 6022 0 36
+__initialization: CODE, 5936 0 44
+___lwdiv: CODE, 5610 0 86
+_NRF24L01_WriteBuffer: CODE, 5882 0 54
+_SPI_Init: CODE, 6116 0 20
+_isdigit: CODE, 5986 0 36
+_sprintf: CODE, 4168 0 706
+___lwmod: CODE, 5696 0 70
+_UARTInit: CODE, 6154 0 18
+_UART_String: CODE, 5522 0 88
+___wmul: CODE, 5766 0 58
+_ADC_Init: CODE, 6186 0 14
+_UARTPutChar: CODE, 6200 0 12
+Total: 2112
